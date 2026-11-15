@@ -1,0 +1,161 @@
+{
+  "target": "https://y1tku8rpcaw1-d.space-z.ai/",
+  "entry": "https://y1tku8rpcaw1-d.space-z.ai/",
+  "base_dir": "/",
+  "file_count": 24,
+  "total_bytes": 3957612,
+  "files": {
+    "index.html": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/",
+      "bytes": 10554,
+      "sha256": "f06b2b664ee5102e18dbed3ba1bca69fa43775c0e12626e5540bb7c901de02c8",
+      "kind": "html"
+    },
+    "_next/static/media/797e433ab948586e-s.p.29207c2f.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2",
+      "bytes": 23108,
+      "sha256": "5f3d6ad60f29d6cb708414ec6887163d63bf197377ef5417d2483ff31ace6c3b",
+      "kind": "binary"
+    },
+    "_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2",
+      "bytes": 29288,
+      "sha256": "9b6f5ff45b278c744b5f379a2c4ecbaf858a842b8eaf82ac8d21b699ca16c608",
+      "kind": "binary"
+    },
+    "_next/static/chunks/7af0e173cf372ed8.css": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/7af0e173cf372ed8.css",
+      "bytes": 3656,
+      "sha256": "bd2fb657c1127188b97c89a684b5fd5fc717fb9fb78ecfbcca0632ab5d34aa3f",
+      "kind": "css"
+    },
+    "_next/static/chunks/6eb1ec5f1c9b9ef0.css": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/6eb1ec5f1c9b9ef0.css",
+      "bytes": 103271,
+      "sha256": "bbbc6cec4f9a79604f763985a8cc486e7ca9fe4f06019e8e7f5a9eae024a3935",
+      "kind": "css"
+    },
+    "_next/static/chunks/c39637bc9d8cb116.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/c39637bc9d8cb116.js",
+      "bytes": 16869,
+      "sha256": "a74c6ab864662a2d45fd3869b18874a67efdeec2220fbd6f9ad9b1f11951e177",
+      "kind": "js"
+    },
+    "_next/static/chunks/771dedee3f5e1621.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/771dedee3f5e1621.js",
+      "bytes": 224634,
+      "sha256": "32d1182713a2d5fab3bd534a19a1f65af90f456155e5b06123fba985e25f81cf",
+      "kind": "js"
+    },
+    "_next/static/chunks/29cc553a73248c69.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/29cc553a73248c69.js",
+      "bytes": 158133,
+      "sha256": "4811ee79802de444b50cefde766f920d7133a0d2b0a8afffc1269cbc120cbd7e",
+      "kind": "js"
+    },
+    "_next/static/chunks/turbopack-e7e1a605f4c81164.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/turbopack-e7e1a605f4c81164.js",
+      "bytes": 10196,
+      "sha256": "3d74c3cc666e68a59f2fea29cb763b40f38569a6e3fafc362cef870834e0e570",
+      "kind": "js"
+    },
+    "_next/static/chunks/2f236954d6a65e12.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/2f236954d6a65e12.js",
+      "bytes": 30849,
+      "sha256": "de98aefbea0cffbf2c3d5d266dfeabef219e5d805208e63bccf1fb65a875b012",
+      "kind": "js"
+    },
+    "_next/static/chunks/e0d8850ff5d473f5.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/e0d8850ff5d473f5.js",
+      "bytes": 57520,
+      "sha256": "7ccecae10654f2c2acef5ca49fa1aa798160c899d62cfd8dcabf8dc1da688b37",
+      "kind": "js"
+    },
+    "_next/static/chunks/7c4483d26ac4ec52.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/7c4483d26ac4ec52.js",
+      "bytes": 1630,
+      "sha256": "0b2f0e52f7d71bbc191aff8242393dad5c505f98ac221db4c9c05a443aeead01",
+      "kind": "js"
+    },
+    "_next/static/chunks/664adc71bc2617c2.js": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/chunks/664adc71bc2617c2.js",
+      "bytes": 112594,
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+      "kind": "js"
+    },
+    "ink-bow-duel.html": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/ink-bow-duel.html",
+      "bytes": 2427638,
+      "sha256": "365755f5cd006c0389c9e0172df4de8f420bd2357816a929b81a6aec0919e7c5",
+      "kind": "html"
+    },
+    "_next/static/media/fef07dbb0973bf53-s.518e079e.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/fef07dbb0973bf53-s.518e079e.woff2",
+      "bytes": 7252,
+      "sha256": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
+      "kind": "binary"
+    },
+    "_next/static/media/8a480f0b521d4e75-s.ea323500.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/8a480f0b521d4e75-s.ea323500.woff2",
+      "bytes": 14900,
+      "sha256": "6129fc8571c3e0cb0a4c41f5160c974a843b055009dc4ad8858bd808e18a2d86",
+      "kind": "binary"
+    },
+    "_next/static/media/53b9e256198e5412-s.853d50a3.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/53b9e256198e5412-s.853d50a3.woff2",
+      "bytes": 7968,
+      "sha256": "f689f638f29fff460a2d5749edb5d5c38d7bef0389f32032d871f23fc6ebb008",
+      "kind": "binary"
+    },
+    "_next/static/media/7178b3e590c64307-s.55554cd0.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/7178b3e590c64307-s.55554cd0.woff2",
+      "bytes": 16540,
+      "sha256": "58a6b173d5ca1dec92166ea3c6cb1a84a4144556d10928ac14e8e6b40e4787bd",
+      "kind": "binary"
+    },
+    "_next/static/media/5ce348bf30bf5439-s.56c1f21e.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/5ce348bf30bf5439-s.56c1f21e.woff2",
+      "bytes": 6204,
+      "sha256": "e27f657e38d52887baa3b6b2f812bef93dfdd356f0810e40edd4ee284cc7e9f6",
+      "kind": "binary"
+    },
+    "_next/static/media/4fa387ec64143e14-s.3b336396.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/4fa387ec64143e14-s.3b336396.woff2",
+      "bytes": 12872,
+      "sha256": "75b3bedbebc35f347c0ae3b416aa871941555357e7b0f83767eb5987875589ed",
+      "kind": "binary"
+    },
+    "_next/static/media/6306c77e7c8268e4-s.e3369375.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/6306c77e7c8268e4-s.e3369375.woff2",
+      "bytes": 5892,
+      "sha256": "d67e4a94ba498635f764ddca7d1ec4271f5642f032eb24b426764480f66f8497",
+      "kind": "binary"
+    },
+    "_next/static/media/7d817b4c03b0c5f1-s.a40b9a8b.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/7d817b4c03b0c5f1-s.a40b9a8b.woff2",
+      "bytes": 7728,
+      "sha256": "16e1d48b6dd29eb240aec5db36184eb182933c082cd43de7f35af686d58087d2",
+      "kind": "binary"
+    },
+    "_next/static/media/bbc41e54d2fcbd21-s.fe42ddf4.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/_next/static/media/bbc41e54d2fcbd21-s.fe42ddf4.woff2",
+      "bytes": 14712,
+      "sha256": "745994b5cd950ec201b66526375f057d540847cccfc70f4f24f5f571d26d3923",
+      "kind": "binary"
+    },
+    "fonts/mashan.woff2": {
+      "source": "https://y1tku8rpcaw1-d.space-z.ai/fonts/mashan.woff2",
+      "bytes": 653604,
+      "sha256": "47885157595dfe562a31cfcfcf388dd7b91102c09613cc9c9906bdcac081bcee",
+      "kind": "binary"
+    }
+  },
+  "external": [
+    "https://a#б",
+    "https://a@b",
+    "https://x",
+    "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    "https://тест"
+  ],
+  "warnings": []
+}
